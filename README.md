@@ -15,5 +15,7 @@
 
 ## Details
 -Currently employed at Royal Holding, actively engaged in the development of a metaverse utilizing Unity technology for multi-platform deployment on PC, iOS, Android, and VR.
+
 -Concurrently involved in Unreal Engine-based study projects.
+
 -Strategically planning to disseminate acquired expertise and knowledge sharing initiatives.
