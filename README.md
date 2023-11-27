@@ -2,6 +2,8 @@
 
 ## Skills
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Csharp]([https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
 ![Dot](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Cocoa](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -11,9 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmagdaleno&hide_progress=true&theme=onedark)
 
-## Detalhes
-- Trabalhando atualmente 
-  - Royal Holding desenvolvendo um metaverso utilizando a Unity (PC, IOS, Android, VR)
-  - Transcender Studios em um single player para VR
-  - Iniciando estudos na Unreal
-  - Em planejamento para compartilhar meus conhecimentos  
+## Details
+-Currently employed at Royal Holding, actively engaged in the development of a metaverse utilizing Unity technology for multi-platform deployment on PC, iOS, Android, and VR.
+-Concurrently involved in Unreal Engine-based study projects.
+-Strategically planning to disseminate acquired expertise and knowledge sharing initiatives.
