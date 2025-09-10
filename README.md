@@ -2,7 +2,7 @@
 
 ## Skills
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal](https://camo.githubusercontent.com/f0a414e0199e5b003d66e8105adf7f212f8d806dab5d0cb78ffffe26df1779c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d556e7265616c253230456e67696e652d3331333133313f7374796c653d666f722d7468652d6261646765266c6f676f3d756e7265616c2d656e67696e65266c6f676f436f6c6f723d7768697465)
+![Unreal]([https://camo.githubusercontent.com/f0a414e0199e5b003d66e8105adf7f212f8d806dab5d0cb78ffffe26df1779c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d556e7265616c253230456e67696e652d3331333133313f7374796c653d666f722d7468652d6261646765266c6f676f3d756e7265616c2d656e67696e65266c6f676f436f6c6f723d7768697465](https://www.google.com/url?sa=i&url=https%3A%2F%2Falternative.me%2Funreal-engine-4&psig=AOvVaw3n4CTx9pyemT0mrXd3EwYY&ust=1757618295993000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDujsT0zo8DFQAAAAAdAAAAABAK))
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Dot](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmagdaleno&hide_progress=true&theme=onedark)
 
 ## Details
--Currently employed at Royal Holding, actively engaged in the development of a metaverse utilizing Unity technology for multi-platform deployment on PC, iOS, Android, and VR.
+-Currently employed at SENAI, actively engaged in the development of a digital twins and simulations utilizing Unity and Unreal for multi-platform deployment on PC, iOS, Android, and VR.
 
 -Concurrently involved in Unreal Engine-based study projects.
 
